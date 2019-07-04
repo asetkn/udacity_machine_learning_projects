@@ -3,7 +3,7 @@
 ## Projects
 
 ### capstone_project
-Train a Transfer Learning model on top of VGG19. The model needs to identify a correct dog breed from a a picture. Model was trained on 133 breeds.
+The capstone project for Udacity Machine Learning Nanodegree. A transfer learning Deep Learning model trained on augmented image dataset. A class was upsampled 380% using image augmentation and 100% accuracy was achieved.
 
 ### boston_housing
 Find the best regression model parameters using grid search to predict Boston Housing Prices.
