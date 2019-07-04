@@ -1,2 +1,4 @@
-This is a submission for the first project of the ND. I only edited ipynb file to complete the project,
-all other files were produced by Udacity.
+# House price prediction regression project for Udacity Machine Learning Nanodegree.
+
+## Objective
+Find a best regression model parameters using grid search to predict Boston Housing Prices.
