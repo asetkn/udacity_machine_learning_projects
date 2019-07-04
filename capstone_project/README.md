@@ -17,13 +17,4 @@ OS: Windows 10
 Python : 3.7.1
 Conda: 4.6.14
 
-Python packages:
--Numpy
--Pandas
--matplotlib
--keras
--pydot
--graphviz
--Pillow
--OpenCV 3
--split_folders
+Python packages: Numpy, Pandas, matplotlib, keras, pydot, graphviz, Pillow, OpenCV 3, split_folders
